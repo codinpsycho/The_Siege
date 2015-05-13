@@ -1,0 +1,17 @@
+iTileXCount 2
+iTileYCount 10
+
+fTileWidth 150
+fTileHeight 130
+fImageWidth 608
+fImageHeight 130 
+iHeight1 490
+iHeight2 490
+iHeight3 485
+iHeight4 485
+iExtraSpace 1000
+bGiveExtraSpace 10
+
+data
+
+10 10 10 1 2 10 10 3 4 10 10 10 4 3 10 0 10 0 3 0 10 0 2 4 10 10 4 2 10 0 0 0 0 2 4 10 10 3 2 0
